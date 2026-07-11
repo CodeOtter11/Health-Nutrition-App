@@ -1,0 +1,1 @@
+http://10.0.2.2:5000/api use this ip in the api_config.dart file to run the app in the emulator

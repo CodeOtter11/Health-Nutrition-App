@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>317608151845-utjpbkhps78vto99pcj319p1cg90n0pf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.317608151845-utjpbkhps78vto99pcj319p1cg90n0pf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>317608151845-ua479gftrefm59l5cku64uhpdt9qk8gq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBSWE6v_RsEFnvn0fyr2h643SuK2_YKmk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317608151845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.healthnutrition.app</string>
+	<key>PROJECT_ID</key>
+	<string>health-nutrition-app-1caff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>health-nutrition-app-1caff.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317608151845:ios:a5b61e0500ea6a16d2e8cc</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "317608151845",
+    "project_id": "health-nutrition-app-1caff",
+    "storage_bucket": "health-nutrition-app-1caff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317608151845:android:fbfda7d758e14d04d2e8cc",
+        "android_client_info": {
+          "package_name": "com.healthnutrition.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317608151845-ua479gftrefm59l5cku64uhpdt9qk8gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthnutrition.app",
+            "certificate_hash": "fea3d9269f4cb3172149399b39bc237657ef86b5"
+          }
+        },
+        {
+          "client_id": "317608151845-ro54b0ijois3sdv9fgfqctect5r45bbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIjeA0AUpttHWagPUVJz2iNrOSiK9XpSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317608151845-ro54b0ijois3sdv9fgfqctect5r45bbe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317608151845-0nsldf8kedpchde5fo8j6rklbnk8s73f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mealPlan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
